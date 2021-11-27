@@ -1,6 +1,8 @@
+
 # Sakhi-App
 
 This is an app which work as companion of women .This Encourage Women Empowerment
+![Annotation 2021-03-28 211055](https://user-images.githubusercontent.com/69360295/143668589-240d952c-228d-4ba9-8546-6ea0e0a3d6c8.png)
 
 # Inspiration:
 
@@ -20,7 +22,7 @@ We created a web-app in which we customized various activity .You have options t
 
 We used Kivymd  which is a collection of Material Design compliant widgets for use  with Kivy, a framework for cross-platform, touch-enabled graphical applications     for the app design and implementation. Kivy is a free and open source Python framework for developing mobile apps and other multitouch application software with a   natural user interface.
 The app is made for Android. It can also run on iOS, GNU/Linux, macOS, and Windows
-![Annotation 2021-03-28 211055](https://user-images.githubusercontent.com/69360295/143668589-240d952c-228d-4ba9-8546-6ea0e0a3d6c8.png)
+
 ![Annotation 2021-03-28 211149](https://user-images.githubusercontent.com/69360295/143668601-d67cb4e7-3ba5-4d1d-b110-9661e79fd97f.png)
 ![Annotation 2021-03-28 211208](https://user-images.githubusercontent.com/69360295/143668606-ef48e1b1-5f23-4aad-ac6a-5900058a0517.png)
 
